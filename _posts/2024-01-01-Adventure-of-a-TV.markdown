@@ -2,7 +2,7 @@
 layout: post
 title:  "Adventure of a good TV!"
 date:   2024-01-01 00:59:16 -0600
-categories: jekyll update
+categories: Abhi
 ---
 
 one day there was a good tv in a home.  
@@ -19,3 +19,5 @@ it reached the mountain after a long travell. but for going to the mountain the 
 the tiger were searching the tv. after it went back.  after some time tv came out of the cave and it started walking to the mountain. 
 
 Finally, it reached the mountain and it climbed up and it takes that medicine and it climbed down and it returned back to the home after 2to3 days it reached the home. and it gives the medicine to the doctor after the treatment Renu became normal. by this incident Ram realised that it is a good tv and Ram also liked the tv and Ram and Renu live happily with the tv and their lives move on. 
+
+By Abhi
